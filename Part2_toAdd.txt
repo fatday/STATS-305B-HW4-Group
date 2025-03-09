@@ -1,0 +1,9 @@
+1. Tokenizer
+
+2. Performance Calculation & Comparison: Character-Level Perplexity
+
+3. Model Archiectures:
+  - Rotary Position Embeddings (RoPE)
+  - Dropout, Early Stopping, Weight Decay
+  - RMSNorm
+
