@@ -6,4 +6,4 @@
   - Rotary Position Embeddings (RoPE)
   - Dropout, Early Stopping, Weight Decay
   - RMSNorm
-
+  - GELU Activation
